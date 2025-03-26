@@ -2,6 +2,7 @@ import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faVideoCamera, faGamepad, faFilePen } from '@fortawesome/free-solid-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
@@ -30,7 +31,7 @@ function Expertise() {
             <h1>Expertise</h1>
             <div className="skills-grid">
                 <div className="skill">
-                    <FontAwesomeIcon icon={faReact} size="3x"/>
+                    <FontAwesomeIcon icon={faVideoCamera} size="3x"/>
                     <h3>Video</h3>
                     <p>I have created lots of videos, for my own channel, or local businesses</p>
                     <div className="flex-chips">
@@ -42,7 +43,7 @@ function Expertise() {
                 </div>
 
                 <div className="skill">
-                    <FontAwesomeIcon icon={faDocker} size="3x"/>
+                    <FontAwesomeIcon icon={faFilePen} size="3x"/>
                     <h3>Level Design</h3>
                     <p>I used various tools to create new levels for existing games.</p>
                     <div className="flex-chips">
@@ -54,7 +55,7 @@ function Expertise() {
                 </div>
 
                 <div className="skill">
-                    <FontAwesomeIcon icon={faPython} size="3x"/>
+                    <FontAwesomeIcon icon={faGamepad} size="3x"/>
                     <h3>Game Testing</h3>
                     <p>expert at finding bugs and <b>speedrunning</b></p>
                     <div className="flex-chips">
