@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/igor-portfolio/static/css/main.191fc02f.css",
-    "main.js": "/igor-portfolio/static/js/main.053db123.js",
+    "main.js": "/igor-portfolio/static/js/main.9b04a8f2.js",
     "static/js/453.b05d8aa5.chunk.js": "/igor-portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/mock10.png": "/igor-portfolio/static/media/mock10.2d05b02ba569a430a255.png",
     "static/media/mock09.png": "/igor-portfolio/static/media/mock09.e18677ccfc932e52d754.png",
@@ -17,11 +17,11 @@
     "static/media/mock03.png": "/igor-portfolio/static/media/mock03.a4600719e0b5d2a3155b.png",
     "index.html": "/igor-portfolio/index.html",
     "main.191fc02f.css.map": "/igor-portfolio/static/css/main.191fc02f.css.map",
-    "main.053db123.js.map": "/igor-portfolio/static/js/main.053db123.js.map",
+    "main.9b04a8f2.js.map": "/igor-portfolio/static/js/main.9b04a8f2.js.map",
     "453.b05d8aa5.chunk.js.map": "/igor-portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.191fc02f.css",
-    "static/js/main.053db123.js"
+    "static/js/main.9b04a8f2.js"
   ]
 }
